@@ -5,6 +5,7 @@ int area(int);
 int area(int,int);
 float area(float);
 
+
 int main()
 {
     cout<<"calling the area() function for computing tyhe area of square"<<"(side =5)- "<<area(5)<<"\n";
